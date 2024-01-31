@@ -1,3 +1,5 @@
+![ronadlisko's GitHub Banner](https://github.com/ronadlisko/ronadlisko/blob/main/media/keep-calm-and-keep-coding-banner.jpg?raw=true) 
+
 ### Hello there 👋
 
 Glad to see you here! My name is Tomáš Kopecký, and I am a passionate software developer from the Czech Republic, with a focus on backend technologies. I’m always looking for new challenges. Feel free to check out my repositories. Although they all appear to be public, remember that some are actually private, due to my work with the Police of the Czech Republic. The code for these is available upon request. Below, you can find a list of my preferred and most frequently used technologies. In any case, don’t hesitate to contact me via GitHub or LinkedIn.
