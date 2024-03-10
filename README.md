@@ -45,8 +45,8 @@ Glad to see you here! My name is Tomáš Kopecký, and I am a passionate softwar
 </p>
 
 - 🔭 I’m currently working on:
-  - PHP NETTE web application - ([ATS Blansko - Local Tennis Competition IS and CMS](https://github.com/ronadlisko/tenisbk.cz))
-  - C# .NET WPF project - ⏳ repo coming soon.
+  - PHP NETTE web application - ([ATS Blansko - Local Tennis Competition IS and CMS](https://github.com/tomasKopecky/tenisbk.cz))
+  - C# .NET WPF project - ([Data Analyst Importer - Simple and Versatile Import Tool for Analytical Software](https://github.com/tomasKopecky/AnalystDataImporter))
 
 - 📫 How to reach me:
 <a href="mailto:kopeckytom88@gmail.com"><img align="center" src="https://github.com/ronadlisko/ronadlisko/blob/main/media/icons/email/email-original.svg" height="50" width="30"/></a>
